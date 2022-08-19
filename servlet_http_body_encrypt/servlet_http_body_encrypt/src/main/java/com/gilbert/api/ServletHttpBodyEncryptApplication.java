@@ -1,0 +1,13 @@
+package com.gilbert.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ServletHttpBodyEncryptApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ServletHttpBodyEncryptApplication.class, args);
+	}
+
+}
